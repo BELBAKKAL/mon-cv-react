@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/mon-cv-react/static/css/main.d4096d65.css",
-    "main.js": "/mon-cv-react/static/js/main.0a564fe7.js",
-    "static/js/453.269ab0f0.chunk.js": "/mon-cv-react/static/js/453.269ab0f0.chunk.js",
-    "index.html": "/mon-cv-react/index.html",
-    "main.d4096d65.css.map": "/mon-cv-react/static/css/main.d4096d65.css.map",
-    "main.0a564fe7.js.map": "/mon-cv-react/static/js/main.0a564fe7.js.map",
-    "453.269ab0f0.chunk.js.map": "/mon-cv-react/static/js/453.269ab0f0.chunk.js.map"
+    "main.css": "/belbakkal/mon-cv-react/static/css/main.d4096d65.css",
+    "main.js": "/belbakkal/mon-cv-react/static/js/main.68ce06ed.js",
+    "static/js/453.269ab0f0.chunk.js": "/belbakkal/mon-cv-react/static/js/453.269ab0f0.chunk.js",
+    "index.html": "/belbakkal/mon-cv-react/index.html",
+    "main.d4096d65.css.map": "/belbakkal/mon-cv-react/static/css/main.d4096d65.css.map",
+    "main.68ce06ed.js.map": "/belbakkal/mon-cv-react/static/js/main.68ce06ed.js.map",
+    "453.269ab0f0.chunk.js.map": "/belbakkal/mon-cv-react/static/js/453.269ab0f0.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.d4096d65.css",
-    "static/js/main.0a564fe7.js"
+    "static/js/main.68ce06ed.js"
   ]
 }
